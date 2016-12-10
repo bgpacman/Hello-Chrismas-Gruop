@@ -1,0 +1,6 @@
+C:\Users\USER\Project\SoftUni\01 FIrst Lesson\01\Hello Chrismas Gruop\Hello Chrismas Gruop\bin\Debug\Hello Chrismas Gruop.exe.config
+C:\Users\USER\Project\SoftUni\01 FIrst Lesson\01\Hello Chrismas Gruop\Hello Chrismas Gruop\bin\Debug\Hello Chrismas Gruop.exe
+C:\Users\USER\Project\SoftUni\01 FIrst Lesson\01\Hello Chrismas Gruop\Hello Chrismas Gruop\bin\Debug\Hello Chrismas Gruop.pdb
+C:\Users\USER\Project\SoftUni\01 FIrst Lesson\01\Hello Chrismas Gruop\Hello Chrismas Gruop\obj\Debug\Hello Chrismas Gruop.csprojResolveAssemblyReference.cache
+C:\Users\USER\Project\SoftUni\01 FIrst Lesson\01\Hello Chrismas Gruop\Hello Chrismas Gruop\obj\Debug\Hello Chrismas Gruop.exe
+C:\Users\USER\Project\SoftUni\01 FIrst Lesson\01\Hello Chrismas Gruop\Hello Chrismas Gruop\obj\Debug\Hello Chrismas Gruop.pdb
